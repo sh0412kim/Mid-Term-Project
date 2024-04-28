@@ -4,7 +4,7 @@
 ![4](https://github.com/sh0412kim/Mid-Term-Project/assets/165272954/2ef02602-c90d-4404-a7ab-947f7147aab7)
 ![5](https://github.com/sh0412kim/Mid-Term-Project/assets/165272954/c8208265-85d1-4867-90b6-5e2b8caf83a4)
 ![6](https://github.com/sh0412kim/Mid-Term-Project/assets/165272954/65ac52c3-8f2b-4829-82f9-361ddc5803c6)
-![7](file:///C:/Users/kdh98/Desktop/Mid-Term-Project/math.mp4)
+![7](https://github.com/sh0412kim/Mid-Term-Project/assets/165272954/a1cca138-2702-4849-89d4-77dfce5fe886)
 ![8](https://github.com/sh0412kim/Mid-Term-Project/assets/165272954/cbcbe8b7-d3bd-461a-b957-3cd3acf9fb01)
 ![9](https://github.com/sh0412kim/Mid-Term-Project/assets/165272954/7e0e30e7-add3-44e5-a3d7-661e6e71314d)
 ![10](https://github.com/sh0412kim/Mid-Term-Project/assets/165272954/dfee3df6-7788-4ca5-9db8-1cffd185098e)
