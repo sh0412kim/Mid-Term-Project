@@ -1,13 +1,12 @@
-![1](https://github.com/sh0412kim/Mid-Term-Project/assets/165272954/bbbf52be-a8b6-4383-9328-0ca25f73d33f)
-![2](https://github.com/sh0412kim/Mid-Term-Project/assets/165272954/a0ba1780-13d6-4185-9d87-e475a4ebb45e)
-![3](https://github.com/sh0412kim/Mid-Term-Project/assets/165272954/381c6e75-e224-4019-8ef0-bfae7221825f)
-![4](https://github.com/sh0412kim/Mid-Term-Project/assets/165272954/2ef02602-c90d-4404-a7ab-947f7147aab7)
-![5](https://github.com/sh0412kim/Mid-Term-Project/assets/165272954/c8208265-85d1-4867-90b6-5e2b8caf83a4)
-![6](https://github.com/sh0412kim/Mid-Term-Project/assets/165272954/65ac52c3-8f2b-4829-82f9-361ddc5803c6)
-
-https://github.com/sh0412kim/Mid-Term-Project/assets/165272954/f37a3d7e-2c85-46cf-abb4-ab17107409db
-
-![8](https://github.com/sh0412kim/Mid-Term-Project/assets/165272954/cbcbe8b7-d3bd-461a-b957-3cd3acf9fb01)
-![9](https://github.com/sh0412kim/Mid-Term-Project/assets/165272954/7e0e30e7-add3-44e5-a3d7-661e6e71314d)
-![10](https://github.com/sh0412kim/Mid-Term-Project/assets/165272954/dfee3df6-7788-4ca5-9db8-1cffd185098e)
-![11](https://github.com/sh0412kim/Mid-Term-Project/assets/165272954/0d2775df-5462-488c-9a53-fb38f6588700)
+<h2>저는 현재 단국대학교 컴퓨터공학과 3학년에 재학중인 김성현입니다</h2>
+<h2>졸업후에 시스템 엔지니어쪽으로 취업하기 위하여 열심히 공부중입니다</h2>
+<h2>시스템을 유지 보수하고 구축하는 일이 제가 제일 관심있어 하는 일입니다</h2>
+<h2>이 직업을 갖게된다면 오랜기간 동안 책임감을 가지고 즐겁게 일할 수 있을 것 같습니다</h2>
+<h2>저의 장점으로는 성실하고 주변사람들과 원활한 인간관계를 형성할 수 있다는 것입니다</h2>
+<h2>약속시간을 항상 철저하게 지키고 창의력도 뛰어납니다</h2>
+<h2>저는 현재 수학강사로, 일과 학업을 병행하고 있으며 학생들의 점수 향상을 위해 열심히 일하고 있습니다</h2>
+<h2>최근에는 약국처방전 아이디어를 활용하여 학원홍보에 적극 참여하였습니다.</h2>
+<h2>마지막으로 저의 장점은 강인한 체력입니다</h2>
+<h2>주 4회이상 헬스 트레이닝을 하고 있으며 항상 높은 수준의 체력을 유지중입니다</h2>
+<h2>이러한 장점들을 바탕으로 시스템 엔지니어의 꿈을 꼭 이루고 싶습니다</h2>
+<h2>이상으로 제 소개를 마치겠습니다</h2>
